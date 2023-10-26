@@ -83,6 +83,7 @@ export default function Login() {
                           <Link to="/join" style={{textDecoration:"none",color:"blue"}}>계정이 없다면 회원가입해 보세요.</Link>
                       </Grid>
                   </Grid>
+                  <Typography component='subtitle2' display="flex" justifyContent="flex-end" color="grey">테스트 ID : test@naver.com / 테스트 PW : test@1234</Typography>
               </Box>
       </Box>
     </Container>
